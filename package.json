@@ -1,6 +1,6 @@
 {
   "name": "integer-value-checking",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enterprise suite aggregating 201 specialized integer equality checkers",
   "homepage": "https://github.com/10xly/integer-value-checking#readme",
   "bugs": {

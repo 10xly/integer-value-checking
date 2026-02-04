@@ -8,9 +8,9 @@ To get actual values of integers themselves, see [integer-values](https://github
 
 ## Features
 - ✅ 202 Independent Packages: From `is-eq-negative-number-one-hundred` to `is-eq-negative-number-zero` and from `is-eq-positive-number-zero` to `is-eq-positive-number-one-hundred`
-✅ 100% Test Coverage: Validated using Mocha
-✅ Full TypeScript Support: Complete type definitions for enhanced IDE integration
-✅ Production Tested: Battle-tested in enterprise environments requiring numerical precision
+- ✅ 100% Test Coverage: Validated using Mocha
+- ✅ Full TypeScript Support: Complete type definitions for enhanced IDE integration
+- ✅ Production Tested: Battle-tested in enterprise environments requiring numerical precision
 
 ## Installation
 ```bash
