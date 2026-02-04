@@ -1,0 +1,17 @@
+{
+  "name": "is-eq-positive-number-forty-six",
+  "version": "1.0.0",
+  "description": "Check if a value is equal to positive number 46",
+  "main": "index.js",
+  "author": "10x'ly Made Softwares",
+  "license": "EGPSL10X-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-value-checking.git",
+    "directory": "packages/is-eq-positive-number-forty-six"
+  },
+  "dependencies": {
+    "@positive-numbers/forty-six": "*",
+    "@10xly/create-is-eq-fn": "^1.0.0"
+  }
+}

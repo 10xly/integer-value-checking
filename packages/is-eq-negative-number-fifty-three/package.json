@@ -1,0 +1,17 @@
+{
+  "name": "is-eq-negative-number-fifty-three",
+  "version": "1.0.0",
+  "description": "Check if a value is equal to negative number 53",
+  "main": "index.js",
+  "author": "10x'ly Made Softwares",
+  "license": "EGPSL10X-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-value-checking.git",
+    "directory": "packages/is-eq-negative-number-fifty-three"
+  },
+  "dependencies": {
+    "@negative-numbers/fifty-three": "*",
+    "@10xly/create-is-eq-fn": "^1.0.0"
+  }
+}
